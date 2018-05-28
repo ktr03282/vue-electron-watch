@@ -6,7 +6,7 @@
 
 右クリックでカラーピッカーが出ます
 
-![img](./clockimage.png)
+![img](./img/watch.gif)
 
 ## Build Setup
 
